@@ -1,5 +1,4 @@
-Tutorials:
+# Tutorials
 
-[ITA](docs/ita/ita.html)
-
-[ENG](docs/eng/eng.html)
+- [ITA](docs/ita/ItaIndex.html)
+- [ENG](docs/eng/eng.html)
