@@ -7,4 +7,3 @@ author_name: "Mattia Doro"
 
 - [ITA](docs/ita/ItaIndex.html)
 - [ENG](docs/eng/eng.html)
-- [FRENCH]()
