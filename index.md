@@ -1,5 +1,5 @@
 ---
-course_title: "Tutorials"
+course_title: "Tutorials "
 author_name: "Mattia Doro"
 ---
 
