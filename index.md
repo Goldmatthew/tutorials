@@ -6,5 +6,4 @@ author_name: "Mattia Doro"
 # Tutorials
 
 - [ITA](docs/ita/ItaIndex.html)
-- [ENG](docs/eng/eng.html)
-- [FRENCH]()
+- [ENG](docs/eng/EngIndex.html)
