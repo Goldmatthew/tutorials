@@ -3,7 +3,7 @@ course_title: "Tutorials "
 author_name: "Mattia Doro"
 ---
 
-# Tutorials
+# Internship and graduation bureaucracy
 
 - [ITA](docs/ita/ItaIndex.html)
 
