@@ -2,7 +2,7 @@
 course_title: "Tutorials"
 author_name: "Mattia Doro"
 ---
-Contents
+**Contents:**
 
 ## Bureaucracy
 
