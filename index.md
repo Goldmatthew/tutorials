@@ -10,6 +10,6 @@ author_name: "Mattia Doro"
 
 - [ENG](docs/eng/EngIndex.html)
 
-## [Laboratory](docs/Laboratory.html)
+## [Laboratory](docs/laboratory/Laboratory.html)
 
-## [Booking system](docs/bookingsystem.html)
+## [Booking system](docs/booking/bookingsystem.html)
