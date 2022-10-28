@@ -1,4 +1,4 @@
-# VWM_NA - Visual working memory - Numerical acuity
+# VWM/NA - Visual working memory/Numerical acuity
 Note that the experiment is called 'VWM_NA2' 
 Experiment folder: C:\\Vision\\Mattia\\VWM_NA2
 

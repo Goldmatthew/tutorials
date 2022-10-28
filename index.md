@@ -11,5 +11,6 @@ author_name: "Mattia Doro"
 - [ENG](docs/eng/EngIndex.html)
 
 ## [Laboratory](docs/laboratory/Laboratory.html)
+### [Studies](doc/laboratory/studies/studies.html)
 
 ## [Booking system](docs/booking/bookingsystem.html)
