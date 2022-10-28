@@ -63,7 +63,7 @@ The stanby button on the control box should be already turned on. Otherwise, tur
 
 - Open the Acticap Control software.
 
-- Click on File, then on Load Recorder Workspace. Now you can choose a workspace in the folder in the experiment's folder, that is located in C:\\Vision\\Mattia\\[experiment name] (see [Studies](studies.html)), it should be the only loadable file (anyway, the file extension is .rwksp).
+- Click on File, then on Load Recorder Workspace. Now you can choose a workspace in the folder in the experiment's folder, that is located in C:\\Vision\\Mattia\\[experiment name] (see [Studies](studies/studies.html)), it should be the only loadable file (anyway, the file extension is .rwksp).
 
 - Now you have to change the channel definition (i.e., moving from the workspace the electrodes that are not on the scalp to their own place). Click on File, then on Load Channel Definition, go to the experiment folder and then click on the channel definition file (the file extension is .acdf).
 
@@ -83,7 +83,7 @@ Once Reference and Ground impedences are fixed, all the other electrodes will st
 
 - Open Brain Vision Recorder software.
 
-- Click on File, then on "Open Workspace". Choose now the workspace, that is located in C:\\Vision\\Mattia\\[experiment name] (see [Studies](studies.html)) (extension: .rwksp). Differently from Acticap Control software for impedence check, you do not need to load a channel definition now. 
+- Click on File, then on "Open Workspace". Choose now the workspace, that is located in C:\\Vision\\Mattia\\[experiment name] (see [Studies](studies/studies.html)) (extension: .rwksp). Differently from Acticap Control software for impedence check, you do not need to load a channel definition now. 
 
 
 
