@@ -1,4 +1,5 @@
 # Booking system
+This tutorial is for understanding how the booking system works as administrator. You will be able to see our booked participants.
 
 ### Table of contents <a name="toc"></a>
 
