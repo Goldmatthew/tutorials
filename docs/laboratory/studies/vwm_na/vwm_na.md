@@ -27,7 +27,7 @@ To run the experiment (from the participant's computer) we use ePrime.
 In this project participants perform two different experiment, the first is before the EEG montage.
 You can find it in the Desktop, then Mattia, VWM_NA_v2, NA
 
-The second experiment is in the Desktop, then Mattia, VWM_NA_v2, NAVWM 
+The second experiment is in the Desktop, then Mattia, VWM_NA_v2, VWM 
 
 The file the you have to open is the one with the icon with three green squares, as in the example here below.
 
